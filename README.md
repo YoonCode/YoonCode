@@ -8,7 +8,7 @@ Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</h4>
 • I also like to make better designs and better functions based on a UX perspective.
 </p>
 
-<h3>My tech stack 💻</h3>
+<h4>My tech stack is like these:</h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
