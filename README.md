@@ -1,6 +1,6 @@
 <h1>Hi! Nice to see you.</h1>
-<p>Welcome to my page.</p>
-<p>I'm YoonCode.</p>
+<p>Welcome to my page.</br>
+I'm YoonCode.</p>
 <p>I'm Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</p>
 
 <h2>My tech stack 💻</h2>
