@@ -2,6 +2,8 @@
 <h3>Welcome to my page.👋</h3>
 <h4>I'm YoonCode,</br>
 Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</h4>
+<p>• I find problems that users (including myself) confront, and seek efficient and effective solutions.</br>
+• I'm interested in what makes users' habits and how to change users' behaviors.</p>
 
 <h3>My tech stack 💻</h3>
 
