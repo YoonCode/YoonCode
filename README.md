@@ -11,5 +11,5 @@ I'm YoonCode.</p>
 ![React](https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-0ba5e9?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Node.JS](https://img.shields.io/badge/-NodeJS-036e02?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-036e02?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-41759B?style=for-the-badge&logo=mysql&logoColor=ffffff)
