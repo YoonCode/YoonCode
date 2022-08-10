@@ -1,9 +1,9 @@
 <h1>Hi! Nice to see you.</h1>
 <h2>Welcome to my page.👋</h2></br>
-<p>I'm YoonCode.</p>
-<p>I'm Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</p>
+<h3>I'm YoonCode.</br>
+I'm Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</h3>
 
-<h3>My tech stack 💻</h3>
+<h2>My tech stack 💻</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
