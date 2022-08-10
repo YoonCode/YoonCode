@@ -1,6 +1,7 @@
 <h1>Hi! Nice to see you.</h1>
 <p>Welcome to my page.</br>
-I'm Sangjin, Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</p>
+I'm YoonCode.
+I'm Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</p>
 
 <h2>My tech stack 💻</h2>
 
