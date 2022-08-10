@@ -1,7 +1,7 @@
 <h1>Hi! Nice to see you.</h1>
 <h3>Welcome to my page.👋</h3>
-<h4>I'm YoonCode.</br>
-I'm Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</h4>
+<h4>I'm YoonCode,</br>
+Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</h4>
 
 <h3>My tech stack 💻</h3>
 
