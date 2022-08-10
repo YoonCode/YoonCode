@@ -8,5 +8,6 @@ I'm Sangjin, Product Manager & Front-end Developer from 🇰🇷Seoul, South Kor
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-212121?style=for-the-badge&logo=tailwind&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-41759B?style=for-the-badge&logo=mysql&logoColor=ffffff)
