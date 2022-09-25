@@ -20,4 +20,3 @@ Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</h4>
 ![MySQL](https://img.shields.io/badge/-MySQL-41759B?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-036e02?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-0ba5e9?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-0ba5e9?style=for-the-badge&logo=daisyui&logoColor=ffffff)
