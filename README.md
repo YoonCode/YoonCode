@@ -27,5 +27,6 @@ Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</h4>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-2584ff?style=for-the-badge&logo=Jira&logoColor=ffffff)
+![Notion](https://img.shields.io/badge/-Notion-2584ff?style=for-the-badge&logo=notion&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-NPM-231f20?style=for-the-badge&logo=npm&logoColor=ffffff)
 ![Yarn](https://img.shields.io/badge/-Yarn-27799e?style=for-the-badge&logo=yarn&logoColor=ffffff)
