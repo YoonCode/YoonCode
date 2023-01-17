@@ -17,13 +17,13 @@ Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</h4>
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-0ba5e9?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-dd3735?style=for-the-badge&logo=postcss&logoColor=ffffff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-658395?style=for-the-badge&logo=wordpress&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-7986b8?style=for-the-badge&logo=php&logoColor=ffffff)
 
 <h4>Back-end Stack:</h4>
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-036e02?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-41759B?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-084007?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-7986b8?style=for-the-badge&logo=php&logoColor=ffffff)
 
 <h4>Tools:</h4>
 
