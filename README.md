@@ -18,7 +18,7 @@ Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</h4>
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-0ba5e9?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-dd3735?style=for-the-badge&logo=postcss&logoColor=ffffff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-658395?style=for-the-badge&logo=wordpress&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-658395?style=for-the-badge&logo=markdown&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-27a3e1?style=for-the-badge&logo=markdown&logoColor=ffffff)
 
 <h4>Back-end Stack:</h4>
 
