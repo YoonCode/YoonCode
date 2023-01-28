@@ -12,13 +12,13 @@ Product Manager & Front-end Developer from 🇰🇷Seoul, South Korea.</h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-27a3e1?style=for-the-badge&logo=markdown&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3074bf?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-60dafb?style=for-the-badge&logo=react&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-0ba5e9?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-dd3735?style=for-the-badge&logo=postcss&logoColor=ffffff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-658395?style=for-the-badge&logo=wordpress&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-27a3e1?style=for-the-badge&logo=markdown&logoColor=ffffff)
 
 <h4>Back-end Stack:</h4>
 
