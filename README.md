@@ -1,18 +1,18 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonCode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi, Nice to see you 👋
-##### I'm Sangjin, Front-end Developer from 🇰🇷Seoul, South Korea.
+#### I'm Sangjin, Front-end Developer from 🇰🇷Seoul, South Korea.
 
 - &nbsp; I find problems that users (including myself) confront, and seek efficient and effective solutions.</br>
 - &nbsp; I'm interested in what makes users' habits and how to change users' behaviors.</br>
 - &nbsp; I also like to make better designs and better functions based on a UX perspective.
 ---
-
+### Languages and Tools
 ##### Programming Languages
 <code><img alt="javascript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 <code><img alt="typescript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
 <code><img alt="php" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></code>
-##### Frontend & Backend
+##### Frontend and Backend
 <code><img alt="html5" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
 <code><img alt="css3" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
 <code><img alt="react" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></code>
