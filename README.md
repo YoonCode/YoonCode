@@ -14,14 +14,13 @@
 <code><img alt="javascript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 <code><img alt="typescript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
 <code><img alt="react" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></code>
-<code><img alt="tailwindcss" width="20px" height="20px" background="#fff" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code>
+<code><img alt="tailwindcss" width="20px" height="20px" style="background:#fff" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code>
 <code><img alt="nodejs" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /></code>
 <code><img alt="mysql" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img alt="mysql" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></code>
 <code><img alt="php" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></code>
 <code><img alt="git" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></code>
 <code><img alt="figma" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></code>
-<code><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" /></code>
 
 ### Front-end Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
