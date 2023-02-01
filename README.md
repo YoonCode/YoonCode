@@ -32,6 +32,7 @@
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-NPM-231f20?style=for-the-badge&logo=npm&logoColor=ffffff)
 ![Yarn](https://img.shields.io/badge/-Yarn-27799e?style=for-the-badge&logo=yarn&logoColor=ffffff)
+
 ---
 
 ### Github:
