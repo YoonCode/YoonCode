@@ -3,11 +3,9 @@
 ### Hi, Nice to see you 👋
 ### I'm Sangjin, Front-end Developer from 🇰🇷Seoul, South Korea.
 
-<p>
-• I find problems that users (including myself) confront, and seek efficient and effective solutions.</br>
-• I'm interested in what makes users' habits and how to change users' behaviors.</br>
-• I also like to make better designs and better functions based on a UX perspective.
-</p>
+- &nbsp; I find problems that users (including myself) confront, and seek efficient and effective solutions.</br>
+- &nbsp; I'm interested in what makes users' habits and how to change users' behaviors.</br>
+- &nbsp; I also like to make better designs and better functions based on a UX perspective.
 
 <h4>Front-end Stack:</h4>
 
