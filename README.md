@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%YoonCode%2Fhit-counter&count_bg=%2334AEFF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h1>Hi! Nice to see you.</h1>
 <h3>Welcome to my page.👋</h3>
 <h4>I'm SangjinYoon,</br>
