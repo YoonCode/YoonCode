@@ -8,7 +8,9 @@
 - &nbsp; I also like to make better designs and better functions based on a UX perspective.
 ---
 
-#### Programming Languages
+### Languages and Tools
+<code><img alt="html5" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
+<code><img alt="css3" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
 <code><img alt="javascript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 
 ### Front-end Stack:
