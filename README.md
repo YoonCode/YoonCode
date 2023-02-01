@@ -35,4 +35,4 @@
 ---
 
 ### Github:
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact&theme=ayu-mirage&langs_count=7)(https://github.com/YoonCode/github-readme-stats)
