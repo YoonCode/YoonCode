@@ -1,7 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonCode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-#### Hi, Nice to see you 👋
-#### I'm Sangjin, Front-end Developer from 🇰🇷Seoul, South Korea.
+#### Hi there 👋, I'm a Front-end Developer Sangjin from 🇰🇷Korea 
 
 - &nbsp; I find problems that users (including myself) confront, and seek efficient and effective solutions.</br>
 - &nbsp; I'm interested in what makes users' habits and how to change users' behaviors.</br>
