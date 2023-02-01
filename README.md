@@ -36,4 +36,4 @@
 
 ### Github:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact&theme=ayu-mirage&langs_count=7)
-![YoonCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonCode&show_icons=true&theme=ayu-mirage&hide=commits,prs,issues)
+![YoonCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonCode&show_icons=true&theme=ayu-mirage&hide=stars,contribs)
