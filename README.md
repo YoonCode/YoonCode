@@ -9,7 +9,6 @@
 ---
 
 ### Front-end Stack:
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-27a3e1?style=for-the-badge&logo=markdown&logoColor=ffffff)
@@ -21,17 +20,19 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-658395?style=for-the-badge&logo=wordpress&logoColor=ffffff)
 
 ### Back-end Stack:
-
 ![NodeJS](https://img.shields.io/badge/-NodeJS-036e02?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-41759B?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-084007?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-7986b8?style=for-the-badge&logo=php&logoColor=ffffff)
 
 ### Tools:
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-2584ff?style=for-the-badge&logo=Jira&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-a159ff?style=for-the-badge&logo=Figma&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-NPM-231f20?style=for-the-badge&logo=npm&logoColor=ffffff)
 ![Yarn](https://img.shields.io/badge/-Yarn-27799e?style=for-the-badge&logo=yarn&logoColor=ffffff)
+---
+
+### Github:
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
