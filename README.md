@@ -9,7 +9,7 @@
 ---
 
 <p>
-<code><img alt="HTML5" width="20px" height="20px" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=ffffff" /></code>
+<code><img alt="HTML5" width="20px" height="20px" src="https://img.shields.io/badge/?style=for-the-badge&logo=html5&logoColor=ffffff" /></code>
 </p>
 
 <h4>Front-end Stack:</h4>
