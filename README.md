@@ -8,11 +8,7 @@
 - &nbsp; I also like to make better designs and better functions based on a UX perspective.
 ---
 
-<p>
-<code><img alt="HTML5" width="20px" height="20px" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=ffffff" /></code>
-</p>
-
-<h4>Front-end Stack:</h4>
+### Front-end Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
@@ -24,14 +20,14 @@
 ![PostCSS](https://img.shields.io/badge/-PostCSS-dd3735?style=for-the-badge&logo=postcss&logoColor=ffffff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-658395?style=for-the-badge&logo=wordpress&logoColor=ffffff)
 
-<h4>Back-end Stack:</h4>
+### Back-end Stack:
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-036e02?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-41759B?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-084007?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-7986b8?style=for-the-badge&logo=php&logoColor=ffffff)
 
-<h4>Tools:</h4>
+# Tools:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-2584ff?style=for-the-badge&logo=Jira&logoColor=ffffff)
