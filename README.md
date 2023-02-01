@@ -12,6 +12,10 @@
 <code><img alt="html5" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
 <code><img alt="css3" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
 <code><img alt="javascript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
+<code><img alt="typescript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
+<code><img alt="react" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></code>
+<code><img alt="tailwindcss" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code>
+
 
 ### Front-end Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
