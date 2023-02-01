@@ -8,7 +8,8 @@
 - &nbsp; I also like to make better designs and better functions based on a UX perspective.
 ---
 
-<code><img alt="JavaScript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
+### Programming Languages
+<code><img alt="javascript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 
 ### Front-end Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
