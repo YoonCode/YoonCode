@@ -21,9 +21,10 @@
 <code><img alt="php" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></code>
 <code><img alt="git" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></code>
 <code><img alt="figma" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></code>
+<code>(https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)</code>
 
 ### Front-end Stack:
-![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-27a3e1?style=for-the-badge&logo=markdown&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
