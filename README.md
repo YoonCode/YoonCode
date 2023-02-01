@@ -26,6 +26,13 @@
 <code><img alt="figma" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></code>
 <code><img alt="postman" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></code>
 
+---
+
+### Github:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact&theme=ayu-mirage&langs_count=7)
+![YoonCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonCode&show_icons=true&theme=ayu-mirage&hide=contribs)
+
+<!-- 
 ### Front-end Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
@@ -49,10 +56,4 @@
 ![Figma](https://img.shields.io/badge/-Figma-a159ff?style=for-the-badge&logo=Figma&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-NPM-231f20?style=for-the-badge&logo=npm&logoColor=ffffff)
-![Yarn](https://img.shields.io/badge/-Yarn-27799e?style=for-the-badge&logo=yarn&logoColor=ffffff)
-
----
-
-### Github:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact&theme=ayu-mirage&langs_count=7)
-![YoonCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonCode&show_icons=true&theme=ayu-mirage&hide=contribs)
+![Yarn](https://img.shields.io/badge/-Yarn-27799e?style=for-the-badge&logo=yarn&logoColor=ffffff) -->
