@@ -2,8 +2,8 @@
 
 #### Hi there 👋, I'm a Front-end Developer Sangjin from 🇰🇷Korea 
 
-- &nbsp; I've been working as a PM and a Front-end developer for 3+ years. I'm interested in what makes users' habits and how to change users' behaviors. I like to make better UI and better features based on a UX perspective as well.</br>
-- &nbsp; I am also a writer and content creator with two books of publishing experience. In addition to studying IT, I like to learn history, culture, psychology, and continue developing my own knowledge and skills.</br>
+- &nbsp; I've been working as a PM and a Front-end developer for 3+ years. I'm interested in what makes users' habits and how to change them. I like to make better UI and features based on a UX perspective as well.</br>
+- &nbsp; I am also a writer and content creator with two books published. Besides studying IT, I like to learn history, culture, psychology, and continue developing my own knowledge and skills.</br>
 ---
 
 #### Programming Languages
