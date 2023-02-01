@@ -22,6 +22,7 @@
 <code><img alt="mysql" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img alt="mysql" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></code>
 <code><img alt="git" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></code>
+<code><img alt="photoshop" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" /></code>
 <code><img alt="figma" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></code>
 <code><img alt="postman" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></code>
 
