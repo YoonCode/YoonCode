@@ -8,17 +8,17 @@
 - &nbsp; I also like to make better designs and better functions based on a UX perspective.
 ---
 
-### Programming Languages
+##### Programming Languages
 <code><img alt="javascript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 <code><img alt="typescript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
 <code><img alt="php" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></code>
-### Frontend & Backend
+##### Frontend & Backend
 <code><img alt="html5" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
 <code><img alt="css3" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
 <code><img alt="react" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></code>
 <code><img alt="tailwindcss" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code>
 <code><img alt="nodejs" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /></code>
-### Database & Tools
+##### Database & Tools
 <code><img alt="mysql" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img alt="mysql" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></code>
 <code><img alt="git" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></code>
