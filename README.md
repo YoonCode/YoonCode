@@ -19,7 +19,7 @@
 #### Database & Tools
 <a href="https://www.mysql.com/" target="_blank"><code><img alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code></a>
 <a href="https://www.mongodb.com/" target="_blank"><code><img alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></code></a>
-<a href="https://git-scm.com/" target="_blank"><code><img alt="git" width="20px" height="20px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></code></a>
+<a href="https://git-scm.com/" target="_blank"><code><img alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></code></a>
 <a href="https://www.adobe.com/kr/products/photoshop.html" target="_blank"><code><img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" /></code></a>
 <a href="https://www.figma.com/" target="_blank"><code><img alt="figma" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></code></a>
 <a href="https://www.postman.com/" target="_blank"><code><img alt="postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></code></a>
