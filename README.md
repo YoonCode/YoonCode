@@ -8,7 +8,7 @@
 
 #### Programming Languages
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><code><img alt="javascript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code></a>
-<code><img alt="typescript" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
+<code><img alt="typescript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
 <code><img alt="php" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></code>
 #### Frontend and Backend
 <code><img alt="html5" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
