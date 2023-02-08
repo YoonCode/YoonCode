@@ -5,8 +5,7 @@
 - &nbsp; I've been working as a PM and a Front-end developer for 3+ years. I'm interested in what makes users' habits and how to change them. I like to make better UI and features based on a UX perspective as well.</br>
 - &nbsp; I am also a writer and content creator with two books published. Besides studying IT, I like to learn history, culture, psychology, and continue developing my own knowledge and skills.</br>
 ---
-<div>
-<div align="left">
+
 #### Programming Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><code><img alt="typescript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code></a>
@@ -24,12 +23,11 @@
 <a href="https://www.adobe.com/kr/products/photoshop.html" target="_blank"><code><img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" /></code></a>
 <a href="https://www.figma.com/" target="_blank"><code><img alt="figma" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></code></a>
 <a href="https://www.postman.com/" target="_blank"><code><img alt="postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></code></a>
-</div>
+
 ---
 
 #### Github:
 <div align="right">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact&theme=ayu-mirage&langs_count=7" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YoonCode&show_icons=true&theme=ayu-mirage&hide=contribs" />
-</div>
 </div>
