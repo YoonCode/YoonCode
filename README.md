@@ -6,11 +6,11 @@
 - &nbsp; I am also a writer and content creator with two books published. Besides studying IT, I like to learn history, culture, psychology, and continue developing my own knowledge and skills.</br>
 ---
 
-#### Programming Languages
-<div>
+<h4>Programming Languages</h4>
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,php" />
-</div>
-#### Frontend & Backend
+</p>
+<h4>Frontend & Backend</h4>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs" />
 </div>
