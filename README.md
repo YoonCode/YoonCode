@@ -7,22 +7,22 @@
 ---
 
 <div>
-  <h4>Programming Languages</h4>
+  <h4>PROGRAMMING LANGUAGES</h4>
   <img src="https://skillicons.dev/icons?i=js,ts,php" />
 </div>
 <div>
-  <h4>Frontend & Backend</h4>
+  <h4>FRONTEND & BACKEND</h4>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,wordpress" />
 </div>
 <div>
-  <h4>Database & Tools</h4>
+  <h4>DATABASE & TOOLS</h4>
   <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,ps,figma,postman" />
 </div>
 
 ---
 
-#### Github:
 <div>
+  <h4>GITHUB</h4>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact&theme=ayu-mirage&langs_count=7" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YoonCode&show_icons=true&theme=ayu-mirage&hide=contribs" />
 </div>
