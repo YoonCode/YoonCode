@@ -6,8 +6,8 @@
 - &nbsp; I am also a writer and content creator with two books published. Besides studying IT, I like to learn history, culture, psychology, and continue developing my own knowledge and skills.</br>
 ---
 
-<section display="flex">
-  <div display="block">
+<section style="display:flex;">
+  <div>
     <div>
       <h4>PROGRAMMING LANGUAGES</h4>
       <img src="https://skillicons.dev/icons?i=js,ts,php" />
@@ -21,7 +21,7 @@
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,ps,figma,postman" />
     </div>
   </div>
-  <div display="block">
+  <div>
     <div>
       <h4>GITHUB</h4>
       <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact&theme=ayu-mirage&langs_count=7" />
