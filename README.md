@@ -12,13 +12,13 @@
 </div>
 <div>
   <h4>Frontend & Backend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,wordpress" />
 </div>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><code><img alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><code><img alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code></a>
-<a href="https://reactjs.org/" target="_blank"><code><img alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></code></a>
-<a href="https://tailwindcss.com/" target="_blank"><code><img alt="tailwindcss" width="40" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code></a>
-<a href="https://nodejs.org/en/" target="_blank"><code><img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /></code></a>
+<div>
+  <h4>Database & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,ps,figma,postman" />
+</div>
+
 #### Database & Tools
 <a href="https://www.mysql.com/" target="_blank"><code><img alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code></a>
 <a href="https://www.mongodb.com/" target="_blank"><code><img alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></code></a>
