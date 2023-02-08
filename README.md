@@ -7,6 +7,11 @@
 ---
 
 #### Programming Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php" />
+  </a>
+</p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><code><img alt="typescript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code></a>
 <a href="https://www.php.net/" target="_blank"><code><img alt="php" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></code></a>
