@@ -19,8 +19,8 @@
     <h4>DATABASE & TOOLS</h4>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,ps,figma,postman" />
   </div>
-  
   <div>
+    <h4>ACTIVITIES</h4>
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact&theme=ayu-mirage&langs_count=7" />
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YoonCode&show_icons=true&theme=ayu-mirage&hide=contribs" />
   </div>
