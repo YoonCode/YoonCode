@@ -7,7 +7,7 @@
 ---
 
 <section display="flex">
-  <div>
+  <div display="block">
     <div>
       <h4>PROGRAMMING LANGUAGES</h4>
       <img src="https://skillicons.dev/icons?i=js,ts,php" />
@@ -21,7 +21,7 @@
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,ps,figma,postman" />
     </div>
   </div>
-  <div>
+  <div display="block">
     <div>
       <h4>GITHUB</h4>
       <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonCode&layout=compact&theme=ayu-mirage&langs_count=7" />
