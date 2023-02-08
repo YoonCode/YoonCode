@@ -6,12 +6,12 @@
 - &nbsp; I am also a writer and content creator with two books published. Besides studying IT, I like to learn history, culture, psychology, and continue developing my own knowledge and skills.</br>
 ---
 
-<h4>Programming Languages</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php" />
-</p>
-<h4>Frontend & Backend</h4>
 <div>
+  <h4>Programming Languages</h4>
+  <img src="https://skillicons.dev/icons?i=js,ts,php" />
+</div>
+<div>
+  <h4>Frontend & Backend</h4>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs" />
 </div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><code><img alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code></a>
