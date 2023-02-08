@@ -11,6 +11,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,php" />
 </div>
 #### Frontend & Backend
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs" />
+</div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><code><img alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><code><img alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code></a>
 <a href="https://reactjs.org/" target="_blank"><code><img alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></code></a>
