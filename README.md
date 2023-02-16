@@ -13,7 +13,7 @@
   </div>
   <div>
     <h4>FRONTEND & BACKEND</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,expressjs,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,reactnative,tailwind,nodejs,expressjs,wordpress" />
   </div>
   <div>
     <h4>DATABASE & TOOLS</h4>
