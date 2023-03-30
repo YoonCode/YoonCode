@@ -17,7 +17,7 @@
   </div>
   <div>
     <h4>DATABASE & TOOLS</h4>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,ps,figma,postman,netlify" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,ps,figma,postman,netlify,vercel" />
   </div>
   <div>
     <h4>ACTIVITIES</h4>
